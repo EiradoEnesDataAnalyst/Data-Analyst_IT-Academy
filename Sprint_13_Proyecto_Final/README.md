@@ -1,8 +1,4 @@
 <div align="center">
-  
-  <!-- Immagine Banner (3 volte più piccola) -->
-  <img src="https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png" width="300" />
-
   <br>
   
   <h1>✨ Sprint 13: Global Energy Analytics</h1>
@@ -24,7 +20,7 @@
   <blockquote>
     <b>Note:</b> This interactive report was developed as the Final Project for the IT Academy Data Analyst bootcamp.
   </blockquote>
-
+  <img src="https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png" width="300" />
   <br>
   <hr />
 </div>

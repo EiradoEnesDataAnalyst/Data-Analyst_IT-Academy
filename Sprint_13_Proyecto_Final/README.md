@@ -11,7 +11,7 @@
 
   <!-- PULSANTE DASHBOARD (5 volte più grande) -->
   <a href="https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_INTERACTIVE_DASHBOARD-FFD700?style=for-the-badge&logo=rocket&logoColor=black&labelColor=FFA500" height="225" />
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_INTERACTIVE_DASHBOARD-FFD700?style=for-the-badge&logo=rocket&logoColor=black&labelColor=FFA500" height="500" />
   </a>
 
   <br>
@@ -20,7 +20,7 @@
   <blockquote>
     <b>Note:</b> This interactive report was developed as the Final Project for the IT Academy Data Analyst bootcamp.
   </blockquote>
-  <img src="https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png" width="300" />
+  <img src="https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png" width="400" />
   <br>
   <hr />
 </div>

@@ -1,6 +1,7 @@
 <div align="center">
   <br>
-  <h1>GLOBAL TRENDS and ENERGY CHALLENGES</h1>
+  <h1>"GLOBAL TRENDS and ENERGY CHALLENGES"</h1>
+   <h1>-Target 2030-</h1>
   <p>
     A deep dive into global energy consumption patterns, evaluating <br>
     transition speeds and 2030 sustainability targets.

@@ -3,8 +3,7 @@
 Welcome to my Final Project for the IT Academy Data Analyst bootcamp! This project focuses on analyzing the global energy transition, focusing on low-carbon vs. fossil fuel consumption trends and 2030 sustainability targets.
 
 ## 🔗 Live Interactive Dashboard
-You can view the fully interactive report rendered with Quarto here:
-👉 **[View Interactive Dashboard](https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Sprint_13_Proyecto_Final/Quarto_Report/Energy_Analytics_Report.html)**
+👉 **[View Interactive Dashboard](https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html)**
 
 ---
 

@@ -1,21 +1,16 @@
 <div align="center">
   <br>
   
-  <!-- Titolo Principale Ingrandito -->
   <h1 style="font-size: 3em;">⚡ GLOBAL TRENDS AND ENERGY CHALLENGES 🏭</h1>
   
-  <p style="font-size: 1.25em;">
-    <i>An advanced data-driven exploration of the global power transition and future sustainability targets.</i>
-  </p>
-
-  <p style="max-width: 800px;">
-    This project analyzes the <b>shift from fossil fuels to renewable energy</b> across different global regions and income groups. 
-    By integrating multi-source datasets, it provides deep insights through <b>interactive spatial visualizations</b> and 
-    statistical trend modeling to evaluate the path toward 2030 energy goals.
+  <p style="font-size: 1.3em; max-width: 850px;">
+    An advanced exploration of the <b>global energy transition</b> and 2030 sustainability targets. <br>
+    This analysis decodes the shift from fossil fuels to renewables through <b>interactive spatial data</b> <br> 
+    and statistical modeling across diverse income groups and regions.
   </p>
 
   <br>
-  <br>
+
 
   <h2>🚀 CLICK BELOW TO ACCESS THE INTERACTIVE DASHBOARD 🚀</h2>
   

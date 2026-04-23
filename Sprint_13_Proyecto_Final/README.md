@@ -6,19 +6,15 @@
   <p style="font-size: 1.2em;">
     <i>An advanced data-driven exploration of the global power transition and future sustainability targets.</i>
   </p>
-
   <br>
   <br>
-
   <!-- INVITO ALL'AZIONE -->
-  <h2>👇 Click below to enter in the dashboard 👇</h2>
+  <h2>🚀 CLICK BELOW TO ACCESS THE INTERACTIVE DASHBOARD 🚀</h2>
   
   <br>
-
-  <!-- PULSANTE CON FRECCE AI LATI -->
   <table>
-    <tr>🚀
-      <td style="border: none;"><h1></h1></td>
+    <tr>
+      <td style="border: none;"><h1></h1></td>🚀
       <td style="border: none;">
         <a href="https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html">
           <img src="https://img.shields.io/badge/OPEN_LIVE_DASHBOARD-FFD700?style=for-the-badge&logo=hyperledger&logoColor=black&labelColor=FFA500" height="600" />

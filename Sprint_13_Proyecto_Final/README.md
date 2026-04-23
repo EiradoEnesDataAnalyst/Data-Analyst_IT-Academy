@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Sprint 13 - Final Project: Global Energy Analytics 🌍</h1>
+  <h1>GLOBAL TRENDS and ENERGY CHALLENGES</h1>
   <p>
     A deep dive into global energy consumption patterns, evaluating <br>
     transition speeds and 2030 sustainability targets.

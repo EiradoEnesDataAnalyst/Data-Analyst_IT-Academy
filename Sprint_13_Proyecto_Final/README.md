@@ -1,8 +1,3 @@
-# Sprint 13 - Final Project: Global Energy Analytics 🌍
-
-A deep dive into global energy consumption patterns, comparing low-carbon transition speeds across different income groups and regions.
-
-## 🔗 Live Links
 <div align="center">
   <br>
   <h1>Sprint 13 - Final Project: Global Energy Analytics 🌍</h1>
@@ -11,6 +6,7 @@ A deep dive into global energy consumption patterns, comparing low-carbon transi
     transition speeds and 2030 sustainability targets.
   </p>
   <br>
+  ## 🔗 Live Links
   <a href="https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html">
     <img src="https://img.shields.io/badge/-VIEW_INTERACTIVE_DASHBOARD-FDF5E6?style=for-the-badge&logo=plotly&logoColor=003366" />
   </a>

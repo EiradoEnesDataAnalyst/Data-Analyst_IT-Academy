@@ -1,26 +1,37 @@
 # Sprint 13 - Final Project: Global Energy Analytics 🌍
 
-Welcome to my Final Project for the IT Academy Data Analyst bootcamp! This project focuses on analyzing the global energy transition, focusing on low-carbon vs. fossil fuel consumption trends and 2030 sustainability targets.
+A deep dive into global energy consumption patterns, comparing low-carbon transition speeds across different income groups and regions.
 
-## 🔗 Live Interactive Dashboard
-👉 **[View Interactive Dashboard](https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html)**
+## 🔗 Live Links
+- **[View Interactive Dashboard](https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html)**
+- **[ETL Pipeline (Jupyter Notebook)](./development/00.ETL_Pipeline.ipynb)**
+
+---
+
+## 🛠️ Technology Tools
+![Technology Stack](https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png)
+
+### **Key Components:**
+- **ETL Process:** Data cleaning and merging using **Pandas** and **NumPy**.
+- **Statistical Modeling:** Trend analysis and forecasting using **Statsmodels** and **Scikit-learn**.
+- **Geospatial Analysis:** 3D interactive maps powered by **Mapbox API**.
+- **Data Storytelling:** Multi-page report generated with **Quarto**.
+
+## 📊 Data Sources
+The analysis integrates data from multiple prestigious institutions:
+- **Our World in Data** (Oxford Martin School)
+- **Ember** (Global electricity data)
+- **World Bank** (Income groups)
+- **IRENA** (International Renewable Energy Agency)
 
 ---
 
-## 📂 Project Structure
-
-This directory contains the complete workflow for the project:
-
-- **[`Quarto_Report/`](./Quarto_Report/)**: Contains the final dashboard source code (`.qmd`) and the rendered HTML report.
-- **[`development/`](./development/)**: Includes the Jupyter Notebooks used for the ETL (Extract, Transform, Load) process and initial data exploration.
-- **[`data/`](./data/)**: Raw and processed datasets used in the analysis.
-- **[`dfs_global/`](./dfs_global/)**: Intermediate data frames and global datasets.
-
-## 🛠️ Technologies Used
-- **Python**: For data cleaning and processing (Pandas, Numpy).
-- **Plotly**: For interactive visualizations and 3D maps.
-- **Quarto**: To generate the final multi-page analytical report.
-- **Mapbox API**: For advanced geographic visualizations.
+## 📂 Folder Structure
+- `Quarto_Report/`: Source code for the dashboard.
+- `development/`: ETL process and data exploration notebooks.
+- `data/`: Raw and processed datasets.
+- `docs/`: Deployment files for GitHub Pages.
 
 ---
-*Created by [EiradoEnesDataAnalyst](https://github.com/EiradoEnesDataAnalyst)*
+*Project developed for UPC - IT Academy Barcelona Activa - 2026*
+

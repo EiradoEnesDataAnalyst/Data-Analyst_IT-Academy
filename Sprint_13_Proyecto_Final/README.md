@@ -18,13 +18,13 @@
   <!-- PULSANTE CON FRECCE AI LATI -->
   <table>
     <tr>
-      <td style="border: none;"><h1>👉</h1></td>
+      <td style="border: none;"><h1></h1></td>
       <td style="border: none;">
         <a href="https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html">
           <img src="https://img.shields.io/badge/🔗_OPEN_LIVE_DASHBOARD-FFD700?style=for-the-badge&logo=hyperledger&logoColor=black&labelColor=FFA500" height="600" />
         </a>
       </td>
-      <td style="border: none;"><h1>👈</h1></td>
+      <td style="border: none;"><h1></h1></td>
     </tr>
   </table>
 

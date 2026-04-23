@@ -20,7 +20,7 @@
   <blockquote>
     <b>Note:</b> This interactive report was developed as the Final Project for the IT Academy Data Analyst bootcamp.
   </blockquote>
-  <img src="https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png" width="400" />
+  <img src="https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png" width="600" />
   <br>
   <hr />
 </div>

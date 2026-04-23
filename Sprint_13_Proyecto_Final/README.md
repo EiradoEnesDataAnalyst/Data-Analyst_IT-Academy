@@ -3,8 +3,7 @@
 A deep dive into global energy consumption patterns, comparing low-carbon transition speeds across different income groups and regions.
 
 ## 🔗 Live Links
-- **[View Interactive Dashboard](https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html)**
-- **[ETL Pipeline (Jupyter Notebook)](./development/00.ETL_Pipeline.ipynb)**
+> ### 📊 [**Click here to Open the Live Interactive Dashboard**](https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html)
 
 ---
 

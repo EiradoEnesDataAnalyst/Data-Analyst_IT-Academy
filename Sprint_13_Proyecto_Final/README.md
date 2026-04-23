@@ -1,7 +1,8 @@
 <div align="center">
   <br>
   
-  <h1>⚡ GLOBAL TRENDS AND ENERGY CHALLENGES 🏭</h1>
+  <!-- Titolo Principale Ingrandito -->
+  <h1 style="font-size: 3em;">⚡ GLOBAL TRENDS AND ENERGY CHALLENGES 🏭</h1>
   
   <p style="font-size: 1.2em;">
     <i>An advanced data-driven exploration of the global power transition and future sustainability targets.</i>
@@ -12,6 +13,7 @@
   <h2>🚀 CLICK BELOW TO ACCESS THE INTERACTIVE DASHBOARD 🚀</h2>
   
   <br>
+  
   <table>
     <tr>
       <td style="border: none;"><h1>👉</h1></td>
@@ -34,28 +36,41 @@
   <br>
   <hr />
 </div>
+
+<br>
+
 ## 🛠️ Technology Stack
 A comprehensive suite of data science tools was used to build this project:
+
 - **Programming & Environment:** Python, Jupyter Notebooks.
 - **Data Manipulation:** Pandas, NumPy.
 - **Visualizations:** Plotly (Interactive charts), Mapbox API (3D Geospatial maps).
 - **Statistical Analysis & ML:** Scikit-learn, Statsmodels.
 - **Reporting & Deployment:** Quarto, GitHub Pages.
+
 ---
+
 ## 📊 Data Sources
 The analysis integrates high-quality data from the following institutions:
 - **Our World in Data** (Oxford Martin School).
 - **Ember** (Global electricity data).
 - **World Bank** (Income groups and economic data).
 - **IRENA** (International Renewable Energy Agency).
+
 ---
+
 ## 📂 Folder Structure
 This directory contains the complete workflow for the project:
+
 - **[`docs/`](../docs/Energy_Report/)**: Deployment files for the live website.
 - **[`development/`](./development/)**: ETL process and data exploration notebooks.
 - **[`data/`](./data/)**: Raw and processed datasets used in the analysis.
 - **[`Quarto_Report/`](./Quarto_Report/)**: Source code for the final report (`.qmd`).
+
+<br>
+
 ---
+
 <div align="center">
   <p>Created by <b>EiradoEnesDataAnalyst</b> | 2026</p>
   <a href="https://github.com/EiradoEnesDataAnalyst">

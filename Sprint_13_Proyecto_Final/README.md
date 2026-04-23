@@ -9,7 +9,7 @@
 
   <br>
 
-  <!-- PULSANTE DASHBOARD (Ancora più grande e con simbolo Link) -->
+  <!-- PULSANTE DASHBOARD (Focus assoluto) -->
   <a href="https://EiradoEnesDataAnalyst.github.io/Data-Analyst_IT-Academy/Energy_Report/Energy_Analytics_Report.html">
     <img src="https://img.shields.io/badge/🔗_OPEN_LIVE_DASHBOARD-FFD700?style=for-the-badge&logo=hyperledger&logoColor=black&labelColor=FFA500" height="700" />
   </a>
@@ -20,9 +20,6 @@
   <blockquote>
     <b>Note:</b> This interactive report was developed as the Final Project for the IT Academy Data Analyst bootcamp.
   </blockquote>
-
-  <!-- Immagine Tech Stack -->
-  <img src="https://raw.githubusercontent.com/EiradoEnesDataAnalyst/Data-Analyst_IT-Academy/main/docs/Energy_Report/images/Gemini_Generated_Image_xitqoixitqoixitq.png" width="600" />
   
   <br>
   <hr />
@@ -63,3 +60,5 @@ This directory contains the complete workflow for the project:
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" />
   </a>
 </div>
+
+

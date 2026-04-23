@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   
-  <h1>✨ Sprint 13: Global Energy Analytics</h1>
+  <h1> "Global Trends and Energy Challenges" 🏭</h1>
   
   <p style="font-size: 1.2em;">
     <i>An advanced data-driven exploration of the global power transition and future sustainability targets.</i>
